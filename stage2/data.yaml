@@ -1,0 +1,51 @@
+cases:
+  - text: "我被扣款两次"
+    label: billing
+  - text: "发票上的金额不对"
+    label: billing
+  - text: "为什么这个月的账单比平时贵"
+    label: billing
+  - text: "我要申请退款"
+    label: billing
+  - text: "信用卡扣款失败但订单显示已支付"
+    label: billing
+  - text: "优惠券没有生效导致多付款"
+    label: billing
+  - text: "我想更改我的付款方式"
+    label: billing
+  - text: "账单里出现了不认识的扣费项"
+    label: billing
+
+  - text: "按下登录后画面全白"
+    label: bug
+  - text: "更新后一直闪退"
+    label: bug
+  - text: "上传文件时程序卡住不动"
+    label: bug
+  - text: "APP打开就自动退出"
+    label: bug
+  - text: "搜索功能一直返回空结果"
+    label: bug
+  - text: "页面加载后样式全部错乱"
+    label: bug
+  - text: "点击保存按钮没有任何反应"
+    label: bug
+  - text: "切换到深色模式后文字看不清"
+    label: bug
+
+  - text: "你们周末有上班吗"
+    label: other
+  - text: "今天天气如何"
+    label: other
+  - text: "请问客服电话是多少"
+    label: other
+  - text: "你们公司在哪个城市"
+    label: other
+  - text: "可以推荐一下你们的其他产品吗"
+    label: other
+  - text: "我想给你们的服务提提建议"
+    label: other
+  - text: "这个软件是免费的吗"
+    label: other
+  - text: "谢谢你们的帮助"
+    label: other
